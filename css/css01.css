@@ -1,0 +1,218 @@
+body{
+	margin: 0;
+	background-image: url('../img/fundo.png');
+	background-size: 100% 120%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#corpo{
+	width: 1000px;
+	margin: 0 auto;
+}
+#cab{
+	width: 1000px;
+	height: 125px;
+	float: left;	
+}
+#cont{
+	width: 100%;
+	height: 1200px;
+	float: left;
+	background-color: white;	
+}
+#rod{
+	background-color: #1C1C1C;
+	width: 100%;
+	height: 133px;
+	float: left;		
+}
+#cab #menu01{
+	width: 500px;
+	height: 125px;
+	float: left;
+}
+#cab #logo{
+	float: left;
+	width: 125px;
+	height: 125px;
+}
+#cab #menu02{
+	width: 500px;
+	height: 125px;
+	float: left;
+}
+#cab #menu{
+	background-color: #8B0000;	
+	float: left;
+	text-align: center;
+	padding: 15px;
+	font-size: 15px;
+	margin-left: 220px;
+	border-radius: 10px;
+	margin-top: 75px;
+	width: 250px;	
+}
+#cab #menu a{
+	text-decoration: none;
+	color: white;
+	margin-left: 10px;
+}
+#cont #banner {
+	width: 95%;
+	height: 250px;
+	margin: 20px;
+	border: 5px solid #1C1C1C;	
+	box-shadow: 10px 10px 10px gray;
+}
+#cont #col1{
+	width: 700px;
+	height: 895px;
+	float: left;
+	border: 2px solid gray;
+	margin-left: 15px;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px gray;
+}
+#cont #col2{
+	background-color: #8B0000;
+	width: 250px;
+	height: 893px;
+	float: left;
+	margin-left: 10px;
+	border: 2px solid gray;
+	border-radius: 10px;
+	box-shadow: 10px 10px 10px gray;
+}
+#cont #col1 #gif01{
+	width: 680px;
+	height: 295px;
+	margin-left: 10px;
+}
+#cont #col1 h1{
+	margin-top: 10px;
+	margin-right: 30px;
+	text-align: center;
+	font-size: 25px;	
+}
+#cont #col1 p{
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-left: 10px;
+	text-align: justify;
+	font-size: 19px;	
+}
+#cont #col1 label {
+	margin-top: 10px;
+	width: 300px;
+	display: block; 
+	float: left;
+	text-align: right;
+	padding-right: 20px;
+	font-size: 18px; 
+}
+#cont #col1 input{
+	margin-top: 10px;
+	display: block;
+	float: left;
+	width: 270px;
+	margin-bottom: 10px;
+	border-radius: 3px;
+	border: 1px solid lightgray;
+}
+#cont #col1 fieldset {
+	width: 650px;
+	height: 230px;
+	margin: 0 auto;
+}
+#cont #col1 #bcalcula {
+	margin-top: 2px;
+	float: right;
+	margin-right: 52px;
+	height: 25px;
+}
+#cont #col2 h1{
+	color: white;
+	margin-top: 20px;
+	text-align: center;
+	font-size: 25px;
+}
+#cont #col2 li{
+	margin-top: 20px;
+	text-align: left;
+	font-size: 18px;
+	margin-right: 18px;
+	color: white;
+}
+#cont #col2 a{
+	color: white;
+	text-decoration: none;
+}
+#rod #contatos{
+	width: 490px;
+	margin: 5px;
+	float: left;	
+}
+#rod #sobre{
+	width: 483px;
+	margin: 5px;
+	border-left: 1px solid white;
+	float: left;	
+}
+#rod h2{
+	margin: 10px;
+	color: white;
+} 
+#rod p {
+	text-align: justify;
+	color: white;
+	margin-left: 10px;
+}
+#rod #email{
+	margin: 7px;
+	width: 40px;
+	height: 30px;
+	margin-left: 150px;
+}
+#rod #insta{
+	margin: 7px;
+	width: 30px;
+	height: 30px;
+}
+#rod #whats{
+	margin: 7px;
+	width: 30px;
+	height: 30px;
+}
+#rod #facebook{
+	margin: 7px;
+	width: 30px;
+	height: 30px;
+}
+#rod #propaganda{
+	float: left;
+}
+#cont #col1 #video{
+	margin-left: 70px;
+	margin-top: 07px;
+
+}
+#cont #col1 #download{
+	width: 70px;
+	height: 70px;
+	margin-left: 310px;
+	margin-top: 10px;
+}
+#cont #col1 #promocao{
+	margin-top: 40px;
+}
+#cont #col1 #promocao01{
+	margin-top: 40px;
+}
+#cont #col1 .bfonte{
+margin: 0 5px;
+background-color: #8B0000;
+color: white;
+}
+
+
+
